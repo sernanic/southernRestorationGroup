@@ -2128,7 +2128,7 @@ progress {
 
 .side-image{
   height: 15rem;
-  width:20rem
+  width:20rem;
   border-radius: 10px;
   box-shadow: 0 0 12px rgb(63 66 94 / 24%);
 }
